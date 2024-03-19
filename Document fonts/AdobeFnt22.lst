@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.22
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Amaz�nica
+FamilyName:Amazónica
+StyleName:Regular
+FullName:Amazónica
+MenuName:Amazónica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Instagram_Story\Document fonts\Amazonica_Juan_Casco.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130476
+FileModTime:1272415234
+WeightClass:500
+WidthClass:4
+AngleClass:0
+NameArray:0,Mac,4,Amazonica
+NameArray:0,Win,1,Amazónica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BeastvsSpreadTall
+FamilyName:Beast vs SpreadTall
+StyleName:Regular
+FullName:Beast vs SpreadTall
+MenuName:Beast vs SpreadTall
+StyleBits:0
+FamilyNameNative:Beast vs SpreadTall
+StyleNameNative:Regular
+FullNameNative:Beast vs SpreadTall Regular
+WritingScript:Cyrillic
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Instagram_Story\Document fonts\Beast vs SpreadTall.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24824
+FileModTime:950910490
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Beast vs SpreadTall
+NameArray:0,Win,1,Beast vs SpreadTall
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VeraHumana95
+FamilyName:Vera Humana 95
+StyleName:Regular
+FullName:Vera Humana 95
+MenuName:Vera Humana 95
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Instagram_Story\Document fonts\Verah__.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71024
+FileModTime:856746716
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Vera Humana 95
+NameArray:0,Win,1,Vera Humana 95
+%EndFont
+
